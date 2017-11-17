@@ -9,3 +9,7 @@ TREEORD
 NICEBTRE
 
 ![print3](https://github.com/paulohbmatias/AtividadesED/blob/master/Imagens/Selection_003.png)
+
+BST
+
+![print3](https://github.com/paulohbmatias/AtividadesED/blob/master/Imagens/Selection_004.png)
